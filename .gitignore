@@ -1,1 +1,9 @@
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+datasets/
+*.npy
+*.pickle
