@@ -5,5 +5,13 @@ __pycache__/
 *.pyd
 *.egg-info
 datasets/
-*.npy
+saved_params_5000.npy
+saved_params_10000.npy
+saved_params_15000.npy
+saved_params_20000.npy
+saved_params_25000.npy
+saved_params_30000.npy
+saved_params_35000.npy
 *.pickle
+results/
+data/
