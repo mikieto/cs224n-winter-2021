@@ -15,3 +15,7 @@ saved_params_35000.npy
 *.pickle
 results/
 data/
+src.model
+src.vocab
+tgt.model
+tgt.vocab
